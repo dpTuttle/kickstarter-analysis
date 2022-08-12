@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends to assist client to ch
 ---
 # High Level Analysis
 ---
-* It is initially clear that across all Kickstarter campaigns, plays have a high success rate of being funded. The graph below demonstrates that among Parent categories, "Plays" perform well regardless of geography:
+* It is initially clear that across all Kickstarter campaigns, "Plays" have a high success rate of being funded. The graph below demonstrates that among Parent categories, "Plays" perform well regardless of geography:
 ###### **Parent Category Outcomes**
 ![Parent_Category_Outcomes](https://cvws.icloud-content.com/B/AdByuvqyKQ-ctjaeGBmHEd4HW-nnAfTf5DCgTUbTyVwQVMPODgdAZmBT/Parent+Category+Outcomes.png?o=An6Etoj3d8eLu-tnyT0_vyENffuGyNZO56wnl72R3oif&v=1&x=3&a=CAoglhHtURRgDrCa2DXpBzFtt2SJrjwPzeWtJ2kRXH1APPkSbxDMjsj9qDAYzOuj_6gwIgEAUgQHW-nnWgRAZmBTaid_fMS_UGWjFpf3WOlA7n3VSoMEga3ILjWn7Jdo87-yvjZckO42MdtyJypWKgPzR_9ZasxtPkQe7E9lEU7da9FPFfLucWdUFjqK8W7YipfFyg&e=1660271785&fl=&r=9f5d7d90-7d0a-42b2-9ced-7e75101ae536-1&k=27oz9YbjcGbqrpTIgZburQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=56&s=f1rkhbOkHsUkgwLiEZPP2ALShG4&cd=i)
 ---
