@@ -9,7 +9,7 @@ Performing analysis on Kickstarter data to uncover trends to assist client to ch
 ---
 * Successful theater campaigns focused on the production of a play in the US have an average goal of $5,000.00 and median goal of $3,000.00 that correlates closely with the mean and median pledged amounts suggesting that over 75% of campaigns with goals around $5,000.00 meet or exceed that goal in pledges. 
 * Meanwhile, the standard deviation of failed campaigns suggest that a mix of lofty goals and other contributing factors result in widerspread and uneven pledge amounts. 
-* Additionally, we can gather from the data that campaigns launched in May and June tend to be the most succesfull. Meanwhile, camppaigns launched in June, July amd October tend to show similar failure rates. See graph below:
+* Additionally, we can gather from the data that campaigns launched in May and June tend to be the most succesfull. Meanwhile, campaigns launched in June, July amd October tend to show similar failure rates. See graph below:
 ---
 ###### **Outcomes Based on Launch Date**
 ![Outcomes_Based_on_Launch_Date](https://cvws.icloud-content.com/B/AT1w14e2lgIZMMlxGUfnkrBBpSIxAVqA_2dSZPC2WDUm0JnJy_N-LJVj/Outcomes+Based+on+Launch+Date.png?o=Ara70nDPErOKbog2Nmnq__hFyK1A9GMVWqjwnhtnAw_W&v=1&x=3&a=CAogxA8JWgcg4c3A64fH-kC8ZJRGfex6xfflRAH9ZCicjR8SbxCe5br9qDAYnsKW_6gwIgEAUgRBpSIxWgR-LJVjaid2LPBh-tG3-lMesyl_nuJF9eDHeCXF74eyNN3Trx2pUV6Gp2j78MVyJ5jmgcKuLqkZTLjWIA02gGyYxBLO1kll4Yf5j7piNoHU74QY0-kuDg&e=1660271567&fl=&r=f7c10862-dc65-4c19-b571-71a0e5af2589-1&k=veSquBAecvn4_lQaSKPAqA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=56&s=O6AKCygH6qBdLRsda9BrpzqjVao&cd=i)
